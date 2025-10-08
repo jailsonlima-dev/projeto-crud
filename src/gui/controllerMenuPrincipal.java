@@ -11,6 +11,9 @@ public class controllerMenuPrincipal {
 
 	@FXML
 	private Button BtCadastroUsuario;
+	
+	@FXML
+    private Button BtLista;
 
 	// pao@gmail.com
 
