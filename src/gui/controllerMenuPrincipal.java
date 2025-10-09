@@ -21,6 +21,9 @@ public class controllerMenuPrincipal {
 	private void initialize () {
 
 		BtCadastroUsuario.setOnAction(e->{abrirPagina("cadastroUsuario.fxml");});
+		
+		BtLista.setOnAction(e->{abrirPagina("listaUsuarios.fxml");});
+		
 	}
 	
 	
